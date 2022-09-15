@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AidanC136
+- 👀 I’m interested in working with new people to learn and contribute to open source software
+- 🌱 I’m currently learning Software Engineering at the University of Canterbury, New Zealand
+- 📫 You can reach me on my email aidanc136@gmail.com
